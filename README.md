@@ -7,3 +7,5 @@ Feature One
 Feature two
 
 Each team member is going to work on one branch and then merge their code to the main branch after the code has been reviewed.
+
+Adding a new line as OS Contributor
